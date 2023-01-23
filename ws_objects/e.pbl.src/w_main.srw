@@ -27,5 +27,6 @@ on w_main.destroy
 end on
 
 event open;messagebox("1","1")
+
 end event
 
