@@ -26,7 +26,11 @@ end on
 on w_main.destroy
 end on
 
+<<<<<<< HEAD
 event open;messagebox("1","123")
+=======
+event open;messagebox("113 4","123 4")
+>>>>>>> 4
 
 end event
 
