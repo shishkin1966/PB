@@ -26,6 +26,10 @@ end on
 on w_main.destroy
 end on
 
-event open;messagebox("","")
+event open;
+
+messagebox("","")
+
+
 end event
 
